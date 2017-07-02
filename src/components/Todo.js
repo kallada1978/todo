@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-
+// testing
 const Todo = ({ onClick, completed, text }) => (
   <li
     onClick={onClick}
