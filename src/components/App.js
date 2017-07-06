@@ -5,10 +5,12 @@ import VisibleTodoList from '../containers/VisibleTodoList'
 
 const App = () => (
   <div>
+    Test 123
     <AddTodo />
     <VisibleTodoList />
     <Footer />
   </div>
 )
+
 
 export default App
