@@ -7,6 +7,7 @@ const App = () => (
   <div>
     Test 123
     Hello
+    foo bar baz
     <AddTodo />
     <VisibleTodoList />
     <Footer />
